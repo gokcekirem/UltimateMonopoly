@@ -1,0 +1,120 @@
+Go - Mediterranean Avenue - Mediterranean Avenue - Boardwalk - null
+Mediterranean Avenue - Community Chest 1 - Community Chest 1 - Go - 60 - purple
+Community Chest 1 - Baltic Avenue - Baltic Avenue - Mediterranean Avenue - null
+Baltic Avenue - Income Tax - Income Tax - Community Chest 1 - 60 - purple
+Income Tax - Transit Station 1 - Transit Station 1 - Baltic Avenue - null
+Transit Station 1 - Oriental Avenue - Reading Railroad - Income Tax - null
+Oriental Avenue - Chance 1 - Chance 1 - Transit Station 1 - 100 - light blue
+Chance 1 - Vermont Avenue - Vermont Avenue - Oriental Avenue - null
+Vermont Avenue - Connecticut Avenue - Connecticut Avenue - Chance 1 - 100 - light blue
+Connecticut Avenue - Jail - Jail - Vermont Avenue - 120 - light blue
+Jail - St. Charles Place - St. Charles Place - Connecticut Avenue - null
+St. Charles Place - Electric Company - Electric Company - Jail - 140 - magenta
+Electric Company - States Avenue - States Avenue - St. Charles Place - 150 - null
+States Avenue - Virginia Avenue - Virginia Avenue - Electric Company - 140 - magenta
+Virginia Avenue - Pennsylvania Railroad - Pennsylvania Railroad - States Avenue - 160 - magenta
+Pennsylvania Railroad - St. James Place - Transit Station 3 - Virginia Avenue - 200 - null
+St. James Place - Community Chest 2 - Community Chest 2 - Pennsylvania Railroad - 180 - orange
+Community Chest 2 - Tennessee Avenue - Tennessee Avenue - St. James Place - null
+Tennessee Avenue - New York Avenue - New York Avenue - Community Chest 2 - 180 - orange
+New York Avenue - Free Parking - Free Parking - Tennessee Avenue - 200 - orange
+Free Parking - Kentucky Avenue - Kentucky Avenue - New York Avenue - null
+Kentucky Avenue - Chance 2 - Chance 2 - Free Parking - 220 - red
+Chance 2 - Indiana Avenue - Indiana Avenue - Kentucky Avenue - null
+Indiana Avenue - Illinois Avenue - Illinois Avenue - Chance 2 - 220 - red
+Illinois Avenue - Transit Station 2 - Transit Station 2 - Indiana Avenue - 240 - red
+Transit Station 2 - Atlantic Avenue - BO Railroad - Illinois Avenue - null
+Atlantic Avenue - Ventnor Avenue - Ventnor Avenue - Transit Station 2 - 260 - yellow
+Ventnor Avenue - Water Works - Water Works - Atlantic Avenue - 260 - yellow
+Water Works - Marvin Gardens - Marvin Gardens - Ventnor Avenue - 150 - null
+Marvin Gardens - Roll Three - Roll Three - Water Works - 280 - yellow
+Roll Three - Pacific Avenue - Pacific Avenue - Marvin Gardens - null
+Pacific Avenue - North Carolina Avenue - North Carolina Avenue - Roll Three - 300 - green
+North Carolina Avenue - Community Chest 3 - Community Chest 3 - Pacific Avenue - 300 - green
+Community Chest 3 - Pennsylvania Avenue - Pennsylvania Avenue - North Carolina Avenue - null
+Pennsylvania Avenue - Short Line - Short Line - Community Chest 3 - 320 - green
+Short Line - Chance 3 - Transit Station 4 - Pennsylvania Avenue - 200 - null
+Chance 3 - Park Place - Park Place - Short Line - null
+Park Place - Luxury Tax - Luxury Tax - Chance 3 - 350 - blue
+Luxury Tax - Boardwalk - Boardwalk - Park Place - null
+Boardwalk - Go - Go - Luxury Tax - 400 - blue
+Squeeze Play - The Embarcadero - The Embarcadero - Lombardo Street - null
+The Embarcadero - Fisherman's Wharf - Fisherman's Wharf - Squeeze Play - 210 - white
+Fisherman's Wharf - Telephone Company - Telephone Company - The Embarcadero - 250 - white
+Telephone Company - Community Chest 4 - Community Chest 4 - Fisherman's Wharf - 150 - null
+Community Chest 4 - Beacon Street - Beacon Street - Telephone Company - null
+Beacon Street - Bonus - Bonus - Community Chest 4 - 330 - black
+Bonus - Boylston Street - Boylston Street - Beacon Street - null
+Boylston Street - Newbury Street - Newbury Street - Bonus - 330 - black
+Newbury Street - Transit Station 3 - Transit Station 3 - Boylston Street - 380 - black
+Transit Station 3 - Fifth Avenue - Pennsylvania Railroad - Newbury Street - null
+Fifth Avenue - Madison Avenue - Madison Avenue - Transit Station 3 - 430 - gray
+Madison Avenue - Stock Exchange - Stock Exchange - Fifth Avenue - 430 - gray
+Stock Exchange - Wall Street - Wall Street - Madison Avenue - null
+Wall Street - Tax Refund - Tax Refund - Stock Exchange - 500 - gray
+Tax Refund - Gas Company - Gas Company - Wall Street - null
+Gas Company - Chance 4 - Chance 4 - Tax Refund - 150 - null
+Chance 4 - Florida Street - Florida Street - Gas Company - null
+Florida Street - Holland Tunnel - Holland Tunnel - Chance 4 - 130 - vermillion
+Holland Tunnel - Miami Avenue - Miami Avenue - Florida Street - null
+Miami Avenue - Biscayne Avenue - Biscayne Avenue - Holland Tunnel 1 - 130 - vermillion
+Biscayne Avenue - Transit Station 4 - Transit Station 4 - Miami Avenue - 150 - vermillion
+Transit Station 4 - Reverse Direction - Short Line - Biscayne Avenue - null
+Reverse Direction - Lombardo Street - Lombardo Street - Transit Station 4 - null
+Lombardo Street - Squeeze Play - Squeeze Play - Reverse Direction - 210 - white
+Subway - Lake Street - Lake Street - Rodeo Drive - null
+Lake Street - Community Chest 5 - Community Chest 5 - Subway - 30 - pink
+Community Chest 5 - Nicollet Avenue - Nicollet Avenue - Lake Street - null
+Nicollet Avenue - Hennepin Avenue - Hennepin Avenue - Community Chest 5 - 30 - pink
+Hennepin Avenue - Bus Ticket - Bus Ticket - Nicollet Avenue - 60 - pink
+Bus Ticket - Checker Cab Co - Checker Cab Co - Hennepin Avenue - null
+Checker Cab Co - Reading Railroad - Reading Railroad - Bus Ticket - 300 - null
+Reading Railroad - Esplanade Avenue - Transit Station 1 - Checker Cab Co - 200 - null
+Esplanade Avenue - Canal Street - Canal Street - Reading Railroad - 90 - lime
+Canal Street - Chance 5 - Chance 5 - Esplanade Avenue - 90 - lime
+Chance 5 - Cable Company - Cable Company - Canal Street - null
+Cable Company - Magazine Street - Magazine Street - Chance 5 - 150 - null
+Magazine Street - Bourbon Street - Bourbon Street - Cable Company - 120 - lime
+Bourbon Street - Holland Tunnel 2 - Holland Tunnel 2 - Magazine Street - 120 - lime
+Holland Tunnel 2 - Auction - Auction - Bourbon Street - null
+Auction - Katy Freeway - Katy Freeway - Holland Tunnel 2 - null
+Katy Freeway - Westheimer Road - Westheimer Road - Auction - 150 - sand
+Westheimer Road - Internet Service Provider - Internet Service Provider - Katy Freeway - 150 - sand
+Internet Service Provider - Kirby Drive - Kirby Drive - Westheimer Road - 150 - null
+Kirby Drive - Cullen Boulevard - Cullen Boulevard - Internet Service Provider - 180 - sand
+Cullen Boulevard - Chance 6 - Chance 6 - Kirby Drive - 180 - sand
+Chance 6 - BW Cab Co - BW Cab Co - Cullen Boulevard - null
+BW Cab Co - Dekalb Avenue - Dekalb Avenue - Chance 6 - 300 - null
+Dekalb Avenue - Community Chest 6 - Community Chest 6 - BW Cab Co - 210 - forest
+Community Chest 6 - Young International Boulevard - Young International Boulevard - Dekalb Avenue - null
+Young International Boulevard - Decatur Street - Decatur Street - Community Chest 6 - 210 - forest
+Decatur Street - Peachtree Street - Peachtree Street - Young International Boulevard - 240 - forest
+Peachtree Street - Pay Day - Pay Day - Decatur Street - 240 - forest
+Pay Day - Randolph Street - Randolph Street - Peachtree Street - null
+Randolph Street - Chance 7 - Chance 7 - Pay Day - 270 - crimson
+Chance 7 - Lake Shore Drive - Lake Shore Drive - Randolph Street - null
+Lake Shore Drive - Wacker Drive - Wacker Drive - Chance 7 - 270 - crimson
+Wacker Drive - Michigan Avenue - Michigan Avenue - Lake Shore Drive - 300 - crimson
+Michigan Avenue - Yellow Cab Co - Yellow Cab Co - Wacker Drive - 300 - crimson
+Yellow Cab Co - BO Railroad - BO Railroad - Michigan Avenue - 300 - null
+BO Railroad - Community Chest 7 - Transit Station 2 - Yellow Cab Co - 200 - null
+Community Chest 7 - South Temple - South Temple - BO Railroad - null
+South Temple - West Temple - West Temple - Community Chest 7 - 330 - fuscous
+West Temple - Trash Collector - Trash Collector - South Temple - 330 - fuscous
+Trash Collector - North Temple - North Temple - West Temple - 150 - null
+North Temple - Temple Square - Temple Square - Trash Collector - 360 - fuscous
+Temple Square - Go To Jail - Go To Jail - North Temple - 360 - fuscous
+Go To Jail - South Street - South Street - Temple Square - null
+South Street - Broad Street - Broad Street - Go To Jail - 390 - skin
+Broad Street - Walnut Street - Walnut Street - South Street - 390 - skin
+Walnut Street - Community Chest 8 - Community Chest 8 - Broad Street - 420 - skin
+Community Chest 8 - Market Street - Market Street - Walnut Street - null
+Market Street - Bus Ticket 2 - Bus Ticket 2 - Community Chest 8 - 420 - skin
+Bus Ticket 2 - Sewage System - Sewage System - Market Street - null
+Sewage System - Ute Cab Co - Ute Cab Co - Bus Ticket 2 - 150 - null
+Ute Cab Co - Birthday Gift - Birthday Gift - Sewage System - 300 - null
+Birthday Gift - Mulholland Drive - Mulholland Drive - Ute Cab Co - null
+Mulholland Drive - Ventura Boulevard  - Ventura Boulevard - Birthday Gift - 450 - wine
+Ventura Boulevard - Chance 8 - Chance 8 - Mulholland Drive - 480 - wine
+Chance 8 - Rodeo Drive - Rodeo Drive - Ventura Boulevard - null
+Rodeo Drive - Subway - Subway - Chance 8 - 510 - wine

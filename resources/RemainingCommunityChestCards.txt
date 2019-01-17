@@ -1,0 +1,19 @@
+{\rtf1\ansi\ansicpg1254\cocoartf1561\cocoasubrtf100
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf0 A_Moving_Experience\
+Be_Kind_Rewind\
+Deal_Buster\
+Elected_District_Attorney\
+Game_Night!\
+Happy_Birthday!\
+House_Condemned\
+Pay_Hospital_Bills\
+Share_in_their_Good_Fortune\
+The_Insider's_Edge\
+Tornado_Hits!}

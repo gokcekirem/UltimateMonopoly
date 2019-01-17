@@ -1,0 +1,80 @@
+Mediterranean Avenue
+Baltic Avenue
+Oriental Avenue
+Vermont Avenue
+Connecticut Avenue
+St. Charles Place
+States Avenue
+Virginia Avenue
+St. James Place
+Tennessee Avenue
+New York Avenue
+Kentucky Avenue
+Indiana Avenue
+Illinois Avenue
+Atlantic Avenue
+Ventnor Avenue
+Marvin Gardens
+Pacific Avenue
+North Carolina Avenue
+Pennsylvania Avenue
+Park Place
+Boardwalk
+Pennsylvania RR
+Reading Railroad
+BO Railroad
+Short Line
+Biscayne Avenue
+Miami Avenue
+Florida Avenue
+Lombard Street
+The Embarcadero
+Fisherman's Wharf
+Beacon Street
+Boylston Street
+Newbury Street
+Fifth Avenue
+Madison Avenue
+Wall Street
+Lake Street
+Nicollet Avenue
+Hennepin Avenue
+Esplanade Avenue
+Katy Freeway
+Westheimer Road
+Kirby Drive
+Cullen Boulevard
+Canal Street
+Magazine Street
+Bourbon Street
+Dekalb Avenue
+Young International Boulevard
+Decatur Street
+Peachtree Street
+Randolph Street
+Lake Shore Drive
+Wacker Drive
+Michigan Avenue
+South Temple
+West Temple
+North Temple
+Temple Square
+South Street
+Broad Street
+Walnut Street
+Market Street
+Mulholland Boulevard
+Ventura Boulevard
+Rodeo Drive
+Checker Cab Co
+BW Cab Co
+Yellow Cab Co
+Ute Cab Co
+Water Works
+Cable Company
+Electric Company
+Internet Service Provider
+Gas Company
+Telephone Company
+Trash Collector
+Sewage System

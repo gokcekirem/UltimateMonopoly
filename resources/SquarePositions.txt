@@ -1,0 +1,120 @@
+Go - 493 - 493 - 563 - 564
+Mediterranean Avenue - 455 - 493 - 490 - 564
+Community Chest 1 - 418 - 493 - 454 - 564
+Baltic Avenue- 381 - 493 - 417 - 564
+Income Tax - 345 - 493 - 380 - 564
+Transit Station 1- 306 - 493 - 344 - 564
+Oriental Avenue - 270 - 493 - 306 - 564
+Chance 1 - 233 - 493 - 269 - 564
+Vermont Avenue - 196 - 493 - 232 - 564
+Connecticut Avenue - 159 - 493 - 195 - 564
+Jail - 86 - 493 - 158 - 564
+St. Charles Place - 86 - 455 - 158 - 490
+Electric Company - 86 - 418 - 158 - 453
+States Avenue - 86 - 381 - 158 - 417
+Virginia Avenue - 86 - 344 - 158 - 380
+Pennsylvania Railroad - 86 - 307 - 158 - 343
+St. James Place - 86 - 270 - 158 - 306
+Community Chest 2 - 86 - 233 - 158 - 269
+Tennessee Avenue - 86 - 196 - 158 - 232
+New York Avenue - 86 - 160 - 158 - 195
+Free Parking - 86 - 86 - 158 - 158
+Kentucky Avenue - 159 - 86 - 195 - 158
+Chance 2 - 196 - 86 - 232 - 158
+Indiana Avenue - 233 - 86 - 269 - 158
+Illinois Avenue - 270 - 86 - 306 - 158
+Transit Station 2 - 307 - 86 - 343 - 158
+Atlantic Avenue - 344 - 86 - 380 - 158
+Ventnor Avenue - 381 - 86 - 416 - 158
+Water Works - 417 - 86 - 453 - 158
+Marvin Gardens - 454 - 86 - 490 - 158
+Roll Three - 492 - 86 - 564 - 158
+Pacific Avenue - 492 - 159 - 563 - 193
+North Carolina Avenue - 492 - 194 - 563 - 230
+Community Chest 3 - 492 - 231 - 563 - 267
+Pennsylvania Avenue - 492 - 268 - 563 - 304
+Short Line - 492 - 305 - 563 - 341
+Chance 3 - 492 - 342 - 563 - 378
+Park Place - 492 - 379 - 563 - 414
+Luxury Tax - 492 - 416 - 563 - 452
+Boardwalk - 492 - 453 - 563 - 489
+Squeeze Play - 416 - 416 - 487 - 486
+The Embarcadero - 380 - 416 - 414 - 486
+Fisherman's Wharf - 345 - 416 - 378 - 486
+Telephone Company - 306 - 416 - 344 - 486
+Community Chest 4 - 272 - 416 - 305 - 486
+Beacon Street - 235 - 416 - 270 - 486
+Bonus - 164 - 416 - 234 - 486
+Boylston Street - 164 - 380 - 234 - 414
+Newbury Street - 164 - 344 - 234 - 378
+Transit Station 3 - 164 - 307 - 234 - 343
+Fifth Avenue - 164 - 272 - 234 - 306
+Madison Avenue - 164 - 236 - 234 - 270
+Stock Exchange - 164 - 164 - 234 - 234
+Wall Street - 235 - 164 - 270 - 234
+Tax Refund - 271 - 164 - 306 - 234
+Gas Company - 307 - 164 - 343 - 234
+Chance 4 - 344 - 164 - 378 - 234
+Florida Street - 380 - 164 - 414 - 234
+Holland Tunnel - 416 - 164 - 486 - 234
+Miami Avenue - 416 - 236 - 486 - 270
+Biscayne Avenue - 416 - 272 - 486 - 306
+Transit Station 4 - 416 - 307 - 486 - 342
+Reverse Direction - 416 - 344 - 486 - 378
+Lombardo Street - 416 - 380 - 486 - 414
+Subway - 570 - 570 - 643 - 643
+Lake Street - 532 - 570 - 568 - 643
+Community Chest 5 - 495 - 570 - 531 - 643
+Nicollet Avenue - 457 - 570 - 493 - 643
+Hennepin Avenue - 420 - 570 - 456 - 643
+Bus Ticket - 382 - 570 - 418 - 643
+Checker Cab Co - 345 - 570 - 381 - 643
+Reading Railroad - 306 - 570 - 343 - 643
+Esplanade Avenue - 269 - 570 - 305 - 643
+Canal Street - 232 - 570 - 268 - 643
+Chance 5 - 194 - 570 - 230 - 643
+Cable Company - 157 - 570 - 193 - 643
+Magazine Street - 119 - 570 - 155 - 643
+Bourbon Street - 82 - 570 - 118 - 643
+Holland Tunnel 2 - 7 - 570 - 80 - 643
+Auction - 7 - 532 - 80 - 568
+Katy Freeway - 7 - 495 - 80 - 531
+Westheimer Road - 7 - 457 - 80 - 493
+Internet Service Provider - 7 - 419 - 80 - 456
+Kirby Drive - 7 - 382 - 80 - 418
+Cullen Boulevard - 7 - 344 - 80 - 381
+Chance 6 - 7 - 307 - 80 - 343
+BW Cab Co - 7 - 269 - 80 - 306
+Dekalb Avenue - 7 - 232 - 80 - 268
+Community Chest 6 - 7 - 194 - 80 - 231
+Young International Boulevard - 7 - 157 - 80 - 193
+Decatur Street - 7 - 119 - 80 - 156
+Peachtree Street - 7 - 82 - 80 - 118
+Pay Day - 7 - 7 - 80 - 80
+Randolph Street - 82 - 7 - 118 - 80
+Chance 7 - 119 - 7 - 156 - 80
+Lake Shore Drive - 157 - 7 - 193 - 80
+Wacker Drive - 194 - 7 - 231 - 80
+Michigan Avenue - 232 - 7 - 268 - 80
+Yellow Cab Co - 269 - 7 - 306 - 80
+BO Railroad - 307 - 7 - 342 - 80
+Community Chest 7 - 344 - 7 - 381 - 80
+South Temple - 382 - 7 - 418 - 80
+West Temple - 420 - 7 - 455 - 80
+Trash Collector - 457 - 7 - 493 - 80
+North Temple - 495 - 7 - 531 - 80
+Temple Square - 532 - 7 - 568 - 80
+Go To Jail - 570 - 7 - 643 - 80
+South Street - 570 - 82 - 643 - 118
+Broad Street - 570 - 120 - 643 - 155
+Walnut Street - 570 - 157 - 643 - 193
+Community Chest 8 - 570 - 195 - 643 - 231
+Market Street - 570 - 232 - 643 - 268
+Bus Ticket 2 - 570 - 270 - 643 - 306
+Sewage System - 570 - 307 - 643 - 343
+Ute Cab Co - 570 - 344 - 643 - 381
+Birthday Gift - 570 - 382 - 643 - 418
+Mulholland Drive - 570 - 420 - 643 - 456
+Ventura Boulevard - 570 - 457 - 643 - 493
+Chance 8 - 570 - 495 - 643 - 531
+Rodeo Drive - 570 - 532 - 643 - 568
