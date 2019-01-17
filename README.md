@@ -7,8 +7,8 @@ Thank you,
 
 ### Authors
 
+* Irem Gokcek 
 * Mert Atila Sakaogullari
 * Mustafa Umut Boluk
-* Hatice Irem Gokcek 
 * Onur Iskenderoglu 
 * Nevzat Acar 
